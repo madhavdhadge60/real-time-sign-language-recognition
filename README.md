@@ -140,3 +140,12 @@ The proposed VGG16 + Self-Attention + LSTM model achieved high accuracy for real
 </p>
 
 📄 **Note:** Detailed classification results and evaluation metrics are available in the `comparison_results` folder.
+
+
+## 📸 Project Demo
+
+The following images show the real-time working of the Sign Language Recognition System.
+
+<p align="center">
+  <img src="images/photo-collage.png.png" alt="Project Demo" width="800">
+</p>
