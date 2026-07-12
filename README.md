@@ -171,11 +171,13 @@ pip install -r requirements.txt
 
 ### 3️⃣ Download the Trained Model
 
-The trained model (`.h5`) is not included in this repository because it exceeds GitHub's file size limit.
+The trained model (`MD_model_1776730680.h5`) is not included in this repository because it exceeds GitHub's file size limit.
 
-Download the model from the link below and place it inside the project folder.
+📂 **Download Model (Google Drive):**
 
-**Model Download:** *(Google Drive link will be added later.)*
+[Download MD_model_1776730680.h5](https://drive.google.com/drive/folders/1JRRRNa25g7kEQozAhZYgZv3savltXAKt?usp=drive_link)
+
+After downloading, place the model file in the project folder.
 
 ### 4️⃣ Run the Project
 
