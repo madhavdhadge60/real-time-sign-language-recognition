@@ -25,3 +25,15 @@ The following diagram shows the overall workflow of the proposed real-time sign 
 <p align="center">
   <img src="images/System Architecture Overview.png" alt="System Architecture" width="800">
 </p>
+
+## ✨ Features
+
+- 🎥 Real-time sign language recognition using a webcam.
+- 🖐️ Hand landmark detection with MediaPipe.
+- 🧠 Deep learning model based on VGG16, Self-Attention, and LSTM.
+- 📝 Converts hand gestures into text.
+- 🔊 Converts recognized text into speech using Text-to-Speech (TTS).
+- 🔤 Supports American Sign Language (ASL) alphabet recognition.
+- ⚡ Fast and accurate real-time prediction.
+- 📊 Model evaluation using Accuracy, Loss, ROC Curve, and Confusion Matrix.
+- ♿ Helps improve communication for people with hearing and speech impairments.
