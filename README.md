@@ -149,3 +149,37 @@ The following images show the real-time working of the Sign Language Recognition
 <p align="center">
   <img src="images/photo-collage.png.png" alt="Project Demo" width="800">
 </p>
+
+
+
+## ⚙️ Installation & Usage
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/madhavdhadge60/real-time-sign-language-recognition.git
+cd real-time-sign-language-recognition
+```
+
+### 2️⃣ Install Required Libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+> **Note:** If you don't have a `requirements.txt` file yet, we will create one later.
+
+### 3️⃣ Download the Trained Model
+
+The trained model (`.h5`) is not included in this repository because it exceeds GitHub's file size limit.
+
+Download the model from the link below and place it inside the project folder.
+
+**Model Download:** *(Google Drive link will be added later.)*
+
+### 4️⃣ Run the Project
+
+```bash
+python realtime_test.py
+```
+
