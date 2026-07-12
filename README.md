@@ -37,3 +37,20 @@ The following diagram shows the overall workflow of the proposed real-time sign 
 - ⚡ Fast and accurate real-time prediction.
 - 📊 Model evaluation using Accuracy, Loss, ROC Curve, and Confusion Matrix.
 - ♿ Helps improve communication for people with hearing and speech impairments.
+
+## 🧠 Proposed Deep Learning Model
+
+The proposed model combines computer vision and deep learning techniques to recognize sign language gestures accurately in real time.
+
+It consists of the following components:
+
+- 📷 **Input Image:** Captures hand gesture images through a webcam.
+- 🖐️ **MediaPipe:** Detects hand landmarks and extracts hand regions.
+- 🧩 **VGG16:** Extracts important visual features from the hand images.
+- 🎯 **Self-Attention Layer:** Focuses on the most relevant gesture features.
+- 🔄 **LSTM:** Learns the sequence of hand movements for better prediction.
+- 🏷️ **Dense + Softmax Layer:** Classifies the detected gesture into the correct ASL alphabet.
+
+<p align="center">
+  <img src="images/Proposed DL Model Architecture.png" alt="Proposed Deep Learning Model" width="800">
+</p>
