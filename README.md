@@ -75,3 +75,24 @@ The following diagram shows the complete process of the proposed sign language r
 7. Classify the gesture using Dense and Softmax layers.
 8. Convert the recognized gesture into text.
 9. Convert the generated text into speech using the Text-to-Speech (TTS) module.
+
+
+## 🛠️ Technologies Used
+
+🔹 **Programming Language:** Python 3.10
+
+🔹 **Deep Learning Framework:** TensorFlow 2.13.0, Keras 2.13.1
+
+🔹 **Computer Vision:** OpenCV 4.8.0
+
+🔹 **Hand Detection:** MediaPipe Hands
+
+🔹 **Model Architecture:** VGG16 + Self-Attention + LSTM
+
+🔹 **Image Processing:** NumPy
+
+🔹 **Dataset:** ASL Alphabet Dataset (Kaggle)
+
+🔹 **Development Environment:** Visual Studio Code
+
+🔹 **Operating System:** Windows 10 (64-bit)
