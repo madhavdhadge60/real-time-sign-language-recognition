@@ -113,3 +113,30 @@ The model was trained and tested using the **ASL Alphabet Dataset** available on
 🔹 **Input Image Size:** 160 × 160 × 3
 
 🔹 **Dataset Link:** https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+
+
+## 📊 Results
+
+The proposed VGG16 + Self-Attention + LSTM model achieved high accuracy for real-time sign language recognition. The following figures present the training and evaluation results.
+
+### 📈 Training Performance
+
+<p align="center">
+  <img src="comparison_results/accuracy_epoch_graph.png" alt="Accuracy Graph" width="430">
+  <img src="comparison_results/loss_epoch_graph.png" alt="Loss Graph" width="430">
+</p>
+
+### 🎯 Model Evaluation
+
+<p align="center">
+  <img src="comparison_results/confusion_matrix_with_values.png" alt="Confusion Matrix" width="430" height="370">
+  <img src="comparison_results/ROC_curve_comparison.png" alt="ROC Curve" width="430" height="370">
+</p>
+
+### 📊 Model Comparison
+
+<p align="center">
+  <img src="comparison_results/final_comparison_graph.png" alt="Model Comparison" width="700">
+</p>
+
+📄 **Note:** Detailed classification results and evaluation metrics are available in the `comparison_results` folder.
