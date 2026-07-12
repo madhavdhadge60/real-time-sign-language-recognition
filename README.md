@@ -191,7 +191,7 @@ The trained model (`MD_model_1776730680.h5`) is not included in this repository 
 
 📂 **Download Model (Google Drive):**
 
-[Download MD_model_1776730680.h5](https://drive.google.com/drive/folders/1JRRRNa25g7kEQozAhZYgZv3savltXAKt?usp=drive_link)
+https://drive.google.com/file/d/1Bdc-e_uGpOugTIg_AlCvhQgzTwrNryqk/view?usp=drive_link
 
 After downloading the model, place it in the project root directory.
 
