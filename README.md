@@ -112,7 +112,7 @@ The model was trained and tested using the **ASL Alphabet Dataset** available on
 
 🔹 **Input Image Size:** 160 × 160 × 3
 
-🔹 **Dataset Link:** https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+🔹 **Dataset Link:** [ASL Alphabet Dataset (Kaggle)](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
 
 
 ## 📊 Results
@@ -154,6 +154,21 @@ The following images show the real-time working of the Sign Language Recognition
 
 ## ⚙️ Installation & Usage
 
+
+### 📁 Repository Structure
+
+```text
+real-time-sign-language-recognition/
+│
+├── comparison_results/
+├── images/
+├── train.py
+├── realtime_test.py
+├── labels.json
+├── requirements.txt
+└── README.md
+```
+
 ### 1️⃣ Clone the Repository
 
 ```bash
@@ -167,8 +182,6 @@ cd real-time-sign-language-recognition
 pip install -r requirements.txt
 ```
 
-> **Note:** If you don't have a `requirements.txt` file yet, we will create one later.
-
 ### 3️⃣ Download the Trained Model
 
 The trained model (`MD_model_1776730680.h5`) is not included in this repository because it exceeds GitHub's file size limit.
@@ -177,13 +190,26 @@ The trained model (`MD_model_1776730680.h5`) is not included in this repository 
 
 [Download MD_model_1776730680.h5](https://drive.google.com/drive/folders/1JRRRNa25g7kEQozAhZYgZv3savltXAKt?usp=drive_link)
 
-After downloading, place the model file in the project folder.
+After downloading the model, place it in the project root directory.
+
+```text
+real-time-sign-language-recognition/
+│
+├── MD_model_1776730680.h5
+├── train.py
+├── realtime_test.py
+├── labels.json
+└── ...
+```
 
 ### 4️⃣ Run the Project
 
 ```bash
 python realtime_test.py
 ```
+
+
+
 
 
 ## 🚀 Future Scope
@@ -210,9 +236,9 @@ Electronics & Telecommunication Engineering
 
 📧 **Email:** madhavdhadge2004@gmail.com
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/madhav-dhadge-517841317
+🔗 **LinkedIn:** [Madhav Dhadge](https://www.linkedin.com/in/madhav-dhadge-517841317)
 
-💻 **GitHub:** https://github.com/madhavdhadge60
+💻 **GitHub:** [madhavdhadge60](https://github.com/madhavdhadge60)
 
 
 
