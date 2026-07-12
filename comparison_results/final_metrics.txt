@@ -1,0 +1,12 @@
+Overall Accuracy: 0.9798
+
+
+Overall Performance (Weighted Avg):
+Precision: 0.9805
+Recall: 0.9798
+F1-score: 0.9798
+
+Macro Average:
+Precision: 0.9805
+Recall: 0.9798
+F1-score: 0.9798
