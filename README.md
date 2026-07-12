@@ -17,6 +17,7 @@ This project is an AI-powered Real-Time Sign Language Recognition System that co
 The system captures hand gestures through a webcam, detects hand landmarks using MediaPipe, and recognizes the gestures using a deep learning model based on VGG16, Self-Attention, and LSTM. The recognized gesture is displayed as text and is also converted into speech using a Text-to-Speech (TTS) system.
 
 The model was trained and tested on the ASL Alphabet Dataset and provides fast and accurate real-time recognition, helping improve communication for people with hearing and speech impairments.
+The system also provides autocomplete suggestions to improve the speed and accuracy of text generation.
 
 ## 🔄 System Architecture
 
@@ -37,6 +38,7 @@ The following diagram shows the overall workflow of the proposed real-time sign 
 - ⚡ Fast and accurate real-time prediction.
 - 📊 Model evaluation using Accuracy, Loss, ROC Curve, and Confusion Matrix.
 - ♿ Helps improve communication for people with hearing and speech impairments.
+- - 💡 Autocomplete suggestions for faster text generation.
 
 ## 🧠 Proposed Deep Learning Model
 
@@ -152,10 +154,8 @@ The following images show the real-time working of the Sign Language Recognition
 
 
 
-## ⚙️ Installation & Usage
 
-
-### 📁 Repository Structure
+## 📁 Repository Structure
 
 ```text
 real-time-sign-language-recognition/
@@ -168,6 +168,9 @@ real-time-sign-language-recognition/
 ├── requirements.txt
 └── README.md
 ```
+
+
+## ⚙️ Installation & Usage
 
 ### 1️⃣ Clone the Repository
 
