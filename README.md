@@ -54,3 +54,24 @@ It consists of the following components:
 <p align="center">
   <img src="images/Proposed DL Model Architecture.png" alt="Proposed Deep Learning Model" width="800">
 </p>
+
+
+## 🔄 Algorithm Flow
+
+The following diagram shows the complete process of the proposed sign language recognition system, from capturing hand gestures to generating text and speech output.
+
+<p align="center">
+  <img src="images/Algorithm Flow.png" alt="Algorithm Flow" width="700">
+</p>
+
+### Working Process
+
+1. Capture live video using a webcam.
+2. Detect hand landmarks using MediaPipe.
+3. Crop and preprocess the hand image.
+4. Extract gesture features using the VGG16 model.
+5. Enhance important features using the Self-Attention layer.
+6. Process the features using the LSTM layer.
+7. Classify the gesture using Dense and Softmax layers.
+8. Convert the recognized gesture into text.
+9. Convert the generated text into speech using the Text-to-Speech (TTS) module.
