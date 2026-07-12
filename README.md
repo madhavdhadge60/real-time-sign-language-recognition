@@ -38,7 +38,7 @@ The following diagram shows the overall workflow of the proposed real-time sign 
 - ⚡ Fast and accurate real-time prediction.
 - 📊 Model evaluation using Accuracy, Loss, ROC Curve, and Confusion Matrix.
 - ♿ Helps improve communication for people with hearing and speech impairments.
-- - 💡 Autocomplete suggestions for faster text generation.
+- 💡 Autocomplete suggestions for faster text generation.
 
 ## 🧠 Proposed Deep Learning Model
 
