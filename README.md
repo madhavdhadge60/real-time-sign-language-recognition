@@ -96,3 +96,20 @@ The following diagram shows the complete process of the proposed sign language r
 🔹 **Development Environment:** Visual Studio Code
 
 🔹 **Operating System:** Windows 10 (64-bit)
+
+
+## 📂 Dataset
+
+The model was trained and tested using the **ASL Alphabet Dataset** available on Kaggle.
+
+🔹 **Dataset Name:** ASL Alphabet Dataset
+
+🔹 **Source:** Kaggle
+
+🔹 **Total Classes:** 29 (A–Z, Space, Delete, Nothing)
+
+🔹 **Images Used:** 11,600 (400 images per class)
+
+🔹 **Input Image Size:** 160 × 160 × 3
+
+🔹 **Dataset Link:** https://www.kaggle.com/datasets/grassknoted/asl-alphabet
