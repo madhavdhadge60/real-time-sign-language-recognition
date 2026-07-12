@@ -183,3 +183,41 @@ Download the model from the link below and place it inside the project folder.
 python realtime_test.py
 ```
 
+
+## 🚀 Future Scope
+
+The proposed system can be further improved with the following enhancements:
+
+- 🌍 Support multiple sign languages.
+- 📱 Develop a mobile application for Android and iOS.
+- 🤖 Improve recognition accuracy using larger and more diverse datasets.
+- ✋ Support dynamic gestures, words, and complete sentence recognition.
+- ☁️ Deploy the system as a web or cloud-based application.
+- 🗣️ Add multilingual Text-to-Speech support.
+
+
+
+## 👨‍💻 Author
+
+**Madhav Dhadge**
+
+🎓 **Bachelor of Engineering (B.E.)**  
+Electronics & Telecommunication Engineering
+
+🏫 **Smt. Kashibai Navale College of Engineering, Pune**
+
+📧 **Email:** madhavdhadge2004@gmail.com
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/madhav-dhadge-517841317
+
+💻 **GitHub:** https://github.com/madhavdhadge60
+
+
+
+## 📚 References
+
+- ASL Alphabet Dataset (Kaggle): https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+- TensorFlow Documentation: https://www.tensorflow.org/
+- MediaPipe Documentation: https://developers.google.com/mediapipe
+- OpenCV Documentation: https://opencv.org/
+- Keras Documentation: https://keras.io/
